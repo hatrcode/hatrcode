@@ -6,15 +6,16 @@
 const ha = {
    code: ["Javascript", "Typescript", "Python", "HTML", "CSS"],
    tools: ["React", "Redux", "Node", "Gatsby", "Styled-Components"],
-   currentOccupation: ["Open for job opportunities"],
+   currentOccupation: ["SEO specialist","Open for job opportunities"],
    currentProject: "I am developing calendar option for a Hotel site",
 };
 ```
-### Most used languages
+
+### 💻 Most used languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hatrcode&layout=compact)](https://github.com/hatrcode/github-readme-stats)
 
-### 💻 Github stats 💻
+### 💻 Github stats
 
 ![Ha Truong's Github stats](https://github-readme-stats.vercel.app/api?username=hatrcode&count_private=true&show_icons=true&theme=radical&hide=prs,issues,contribs)
 
