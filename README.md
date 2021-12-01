@@ -5,7 +5,7 @@
 ```javascript
 const ha = {
    code: ["Javascript", "Python", "HTML", "CSS"],
-   tools: ["React", "Redux", "Node", "Gatsby", "Hugo"],
+   tools: ["React", "Redux", "Node", "Gatsby"],
    currentOccupation: ["SEO specialist","Open for job opportunities"],
    currentProject: "I am developing calendar option for a Hotel site",
 };
