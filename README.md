@@ -6,8 +6,8 @@
 const ha = {
    code: ["Javascript", "Python", "HTML", "CSS"],
    tools: ["React", "Redux", "Node", "Gatsby"],
-   currentOccupation: ["SEO specialist","Open for job opportunities"],
-   currentProject: "I am developing calendar option for a Hotel site",
+   currentOccupation: ["Front-end engineer","Travel writer"],
+   currentProject: "Manabie",
 };
 ```
 
