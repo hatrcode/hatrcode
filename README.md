@@ -4,10 +4,10 @@
 
 ```javascript
 const ha = {
-   code: ["Javascript", "Python", "HTML", "CSS"],
-   tools: ["React", "Redux", "Node", "Gatsby"],
+   code: ["HTML", "CSS", "Javascript", "React", "Python"],
+   tools: ["Redux", "Gatsby"],
    currentOccupation: ["Front-end engineer","Travel writer"],
-   currentProject: "Manabie",
+   currentProject: ["movie-search"],
 };
 ```
 
