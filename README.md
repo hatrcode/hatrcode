@@ -1,4 +1,4 @@
-## Hi, I'm [Ha](https://www.hatruong.dev/) 👋
+## Hi, I'm [Hannah](https://www.hatruong.dev/) 👋
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me...  
 
