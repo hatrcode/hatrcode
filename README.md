@@ -3,10 +3,10 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me...  
 
 ```javascript
-const ha = {
-   code: ["HTML", "CSS", "Javascript", "React", "Python"],
+const hannah = {
+   code: ["HTML", "CSS", "Javascript", "React", "WordPress"],
    tools: ["Redux", "Gatsby"],
-   currentOccupation: ["Front-end engineer","Travel writer"],
+   currentOccupation: ["Front-end engineer"],
    currentProject: ["movie-search"],
 };
 ```
